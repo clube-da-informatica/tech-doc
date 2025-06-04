@@ -1,0 +1,24 @@
+site_name: Tech Doc
+plugins:
+- search
+theme:
+  name: material
+  # logo: img/favicon.ico
+  # favicon: img/favicon.ico
+  palette:
+  - media: "(prefers-color-scheme: light)"
+    scheme: slate
+    toggle:
+      icon: material/weather-night
+      name: Switch to dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: default
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode
+markdown_extensions:
+- pymdownx.superfences:
+    custom_fences:
+    - name: mermaid
+      class: mermaid
+      format: !!python/name:pymdownx.superfences.fence_code_format
