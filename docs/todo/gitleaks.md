@@ -1,0 +1,3 @@
+# Gitleaks
+
+https://gitleaks.io/
