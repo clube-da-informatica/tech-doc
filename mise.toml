@@ -5,12 +5,11 @@ pipx = "1.7.1"
 "pipx:poetry" = "2.1.3"
 "pipx:pre-commit" = "4.2.0"
 
+[settings]
+experimental = true
+
 [hooks]
 postinstall = [
-    'pre-commit install',
-    'poetry install'
+    "pre-commit install",
+    "poetry install",
 ]
-
-[tasks."docs"]
-description = "Run docs project"
-run = "poe start"

@@ -13,5 +13,5 @@ mise install
 ## Running
 
 ```sh
-mise docs
+poe start
 ```

@@ -15,3 +15,11 @@ package-mode = false
 [tool.poe.tasks.start]
 cmd  = "mkdocs serve"
 help = "start docs server"
+
+[tool.poe.tasks.build]
+cmd  = "mkdocs build"
+help = "build docs"
+
+[tool.poe.tasks.deploy]
+cmd  = "mkdocs gh-deploy --force"
+help = "deploy mkdocs to github pages"
