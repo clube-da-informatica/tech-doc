@@ -1,3 +1,3 @@
 # ArgoCD
 
-https://argo-cd.readthedocs.io/en/stable/
+[lnk](https://argo-cd.readthedocs.io/en/stable/)

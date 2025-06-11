@@ -1,3 +1,3 @@
 # Minikube
 
-https://minikube.sigs.k8s.io/
+[lnk](https://minikube.sigs.k8s.io/)

@@ -1,3 +1,3 @@
 # Structurizr
 
-https://docs.structurizr.com
+[lnk](https://docs.structurizr.com/)

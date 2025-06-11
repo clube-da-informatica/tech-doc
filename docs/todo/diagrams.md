@@ -1,3 +1,3 @@
 # Diagrams
 
-https://diagrams.mingrammer.com/
+[lnk](https://diagrams.mingrammer.com/)

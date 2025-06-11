@@ -1,3 +1,3 @@
 # PlantUML
 
-https://plantuml.com/
+[lnk](https://plantuml.com/)

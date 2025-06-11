@@ -1,3 +1,3 @@
 # Mermaid
 
-https://mermaid.js.org/
+[lnk](https://mermaid.js.org/)

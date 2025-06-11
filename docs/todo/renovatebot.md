@@ -1,3 +1,3 @@
 # RenovateBot
 
-https://docs.renovatebot.com/
+[lnk](https://docs.renovatebot.com/)

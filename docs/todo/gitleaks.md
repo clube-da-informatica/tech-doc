@@ -1,3 +1,3 @@
 # Gitleaks
 
-https://gitleaks.io/
+[lnk](https://gitleaks.io/)

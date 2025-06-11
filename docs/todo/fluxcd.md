@@ -1,3 +1,3 @@
 # FluxCD
 
-https://fluxcd.io/
+[lnk](https://fluxcd.io/)

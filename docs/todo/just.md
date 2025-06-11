@@ -1,3 +1,3 @@
 # Just
 
-https://github.com/casey/just
+[lnk](https://github.com/casey/just/)

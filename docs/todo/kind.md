@@ -1,3 +1,3 @@
 # Kind
 
-https://kind.sigs.k8s.io/
+[lnk](https://kind.sigs.k8s.io/)

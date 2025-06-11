@@ -1,3 +1,3 @@
 # Mise
 
-https://mise.jdx.dev/
+[lnk](https://mise.jdx.dev/)

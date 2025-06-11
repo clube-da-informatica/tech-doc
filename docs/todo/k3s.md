@@ -1,3 +1,3 @@
 # k3S
 
-https://k3s.io/
+[lnk](https://k3s.io/)

@@ -1,3 +1,3 @@
 # Scoop
 
-https://scoop.sh/
+[lnk](https://scoop.sh/)

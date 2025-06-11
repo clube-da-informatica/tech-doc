@@ -1,3 +1,3 @@
 # Infracost
 
-https://www.infracost.io/docs/
+[lnk](https://www.infracost.io/docs/)

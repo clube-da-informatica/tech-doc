@@ -1,3 +1,3 @@
 # Helm
 
-https://helm.sh/
+[lnk](https://helm.sh/)

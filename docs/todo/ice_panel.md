@@ -1,3 +1,3 @@
 # Ice Panel
 
-https://icepanel.io/
+[lnk](https://icepanel.io/)

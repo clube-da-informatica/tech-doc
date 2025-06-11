@@ -1,3 +1,3 @@
 # Chocolatey
 
-https://chocolatey.org/
+[lnk](https://chocolatey.org/)

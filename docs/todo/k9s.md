@@ -1,3 +1,3 @@
 # k9s
 
-https://k9scli.io/
+[lnk](https://k9scli.io/)
