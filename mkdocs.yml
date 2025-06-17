@@ -1,7 +1,15 @@
 site_name: Tech Doc
 plugins:
 - search
+- tags:
+    tags_file: tags.md
+    listings_map:
+      scoped:
+        scope: true
 theme:
+  features:
+  - content.tabs
+  - content.tags
   name: material
   # logo: img/favicon.ico
   # favicon: img/favicon.ico
